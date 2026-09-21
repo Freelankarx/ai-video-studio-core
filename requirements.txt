@@ -1,0 +1,12 @@
+fastapi==0.109.0
+uvicorn==0.27.0
+python-multipart==0.0.6
+pyngrok==7.1.1
+
+# --- AI DEPENDENCIES (Add these in Phase 1 when ready) ---
+# torch
+# torchvision
+# diffusers
+# transformers
+# accelerate
+# opencv-python
